@@ -12,7 +12,7 @@
 
 ## 下载文件
 
-`输变电工程碳排放概算助手-0.1.0-demo-windows-x64.zip`
+`carbon-estimate-assistant-0.1.0-demo-windows-x64.zip`
 
 SHA-256：
 
